@@ -1,0 +1,8 @@
+C:\Users\dayane.peres\Documents\Cursos\Teste unitários\TesteDeSoftware\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\dayane.peres\Documents\Cursos\Teste unitários\TesteDeSoftware\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\dayane.peres\Documents\Cursos\Teste unitários\TesteDeSoftware\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\dayane.peres\Documents\Cursos\Teste unitários\TesteDeSoftware\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\dayane.peres\Documents\Cursos\Teste unitários\TesteDeSoftware\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\dayane.peres\Documents\Cursos\Teste unitários\TesteDeSoftware\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\dayane.peres\Documents\Cursos\Teste unitários\TesteDeSoftware\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\dayane.peres\Documents\Cursos\Teste unitários\TesteDeSoftware\Demo\obj\Debug\netcoreapp3.1\Demo.csprojAssemblyReference.cache
